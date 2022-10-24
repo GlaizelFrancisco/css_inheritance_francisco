@@ -15,3 +15,8 @@ h1 {
   font-size: 96px;
 }
 
+.subtitle {
+  text-align: center;
+  font-size: 36px;
+  font-family: 'PT Serif', serif;
+}
